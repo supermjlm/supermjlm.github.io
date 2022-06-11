@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://https://supermjlm.github.io/</id>
+    <title>Gridea</title>
+    <updated>2022-06-11T08:39:39.803Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://https://supermjlm.github.io/"/>
+    <link rel="self" href="https://https://supermjlm.github.io/atom.xml"/>
+    <subtitle>白给大老师的黑苹果世界
+</subtitle>
+    <logo>https://https://supermjlm.github.io/images/avatar.png</logo>
+    <icon>https://https://supermjlm.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[LC，老子恨死你了，我操你大爷，你就是歌姬吧。。。（发泄，跟给黑苹果没关系）]]></title>
+        <id>https://https://supermjlm.github.io/post/lclao-zi-hen-si-ni-liao-wo-cao-ni-da-ye-ni-jiu-shi-ge-ji-ba-fa-xie-gen-gei-hei-ping-guo-mei-guan-xi/</id>
+        <link href="https://https://supermjlm.github.io/post/lclao-zi-hen-si-ni-liao-wo-cao-ni-da-ye-ni-jiu-shi-ge-ji-ba-fa-xie-gen-gei-hei-ping-guo-mei-guan-xi/">
+        </link>
+        <updated>2022-05-23T14:07:47.000Z</updated>
+        <content type="html"><![CDATA[<p>有一天啊，我们setup的群就是因为你个傻逼，解散了，就无语啊，你闲的蛋疼啊，还我们等级啊<br>
+我日，你几把类就是个傻逼，我告诉嫩，我日嫩祖奶奶类，马勒戈壁，你赔俺们类等级，赔俺们类人员，马勒戈壁，嫩娘类那个大屌逼被两百来只野狗吃类啥也不剩，你以为你老屌逼？你以为你有管理了不起？我日嫩娘，我告诉你，你就是个大傻逼，我操你妈的，你妈就是条狗生了个你这个大土狗，傻逼！！我日嫩娘，我日嫩祖宗十八代，我日嫩祖奶奶！！！！！！！！！！我操你妈！！！！！！！！！！你妈类臭屌逼被我给插类跟个马蜂窝一样，我操你妈，你这条狗！大傻狗<br>
+你个屌丝，送你两个字：傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼傻逼我告诉你，你就是个大傻逼，我操你妈的，你妈就是条狗生了个你这个大土狗，傻逼！！我日嫩娘，我日嫩祖宗十八代，我日嫩祖奶奶！！！！！！！！！！我操你妈！！！！！！！！！！你妈类臭屌逼被我给插类跟个马蜂窝一样，我操你妈，你这条狗！大傻狗我告诉你，你就是个大傻逼，我操你妈的，你妈就是条狗生了个你这个大土狗，傻逼！！我日嫩娘，我日嫩祖宗十八代，我日嫩祖奶奶！！！！！！！！！！我操你妈！！！！！！！！！！你妈类臭屌逼被我给插类跟个马蜂窝一样，我操你妈，你这条狗！大傻狗</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://https://supermjlm.github.io/post/hello-gridea/</id>
+        <link href="https://https://supermjlm.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
